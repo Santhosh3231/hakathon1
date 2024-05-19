@@ -1,0 +1,30 @@
+h1{
+    color:#2A629A;
+}
+
+
+
+
+body{
+    align-items: center;
+    text-align: center;
+    background-color: #C7B7A3;
+    margin:0%;
+    padding:0%;
+}
+.container{
+    background-color: #FFFAE6;
+    margin:4px;
+    padding:8px;
+}
+.tab{
+    background-color: #EADBC8;
+}
+table tr,td{
+    text-align: center;
+    align-items: center;
+    width: 20px;
+}
+.sub{
+    border: 2px;
+}
