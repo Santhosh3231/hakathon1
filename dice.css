@@ -1,0 +1,20 @@
+body{
+    background-color:bisque;
+    margin:0%;
+    padding:0%;
+    text-align: center;
+}
+#heading{
+    color:rgb(136, 143, 143);
+    text-align: center;
+    padding:23px;
+    margin:27px;
+}
+#can{
+    border-radius:4px;
+    justify-content: center;
+    display: inline;
+    background-color: white;
+
+    
+}
